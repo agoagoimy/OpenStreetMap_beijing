@@ -1,0 +1,19 @@
+type,id,value,key
+regular,1959713,北京站东,name
+regular,1959713,public_transport,type
+regular,1959713,stop_area,public_transport
+regular,2165636,春秀路,name
+regular,2165636,public_transport,type
+regular,2165636,stop_area,public_transport
+regular,2331026,上地东街,name
+regular,2331026,public_transport,type
+regular,2331026,stop_area,public_transport
+regular,2901173,地铁安河桥北站,to
+regular,2901173,512,ref
+regular,2901173,梅所屯,from
+regular,2901173,Bus 512: 梅所屯 => 地铁安河桥北站,name
+regular,2901173,route,type
+regular,2901173,bus,route
+regular,3292620,茶棚路,name
+regular,3292620,public_transport,type
+regular,3292620,stop_area,public_transport
